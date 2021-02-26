@@ -1,0 +1,14 @@
+C:\Documents and Settings\wildox.HQ\My Documents\Visual Studio 2010\Projects\PrintInvoice\PrintInvoice\bin\Release\invclogo.bmp
+C:\Documents and Settings\wildox.HQ\My Documents\Visual Studio 2010\Projects\PrintInvoice\PrintInvoice\bin\Release\zxing.dll
+C:\Documents and Settings\wildox.HQ\My Documents\Visual Studio 2010\Projects\PrintInvoice\PrintInvoice\bin\Release\PrintInvoice.exe
+C:\Documents and Settings\wildox.HQ\My Documents\Visual Studio 2010\Projects\PrintInvoice\PrintInvoice\bin\Release\zxing.pdb
+C:\Documents and Settings\wildox.HQ\My Documents\Visual Studio 2010\Projects\PrintInvoice\PrintInvoice\bin\Release\zxing.xml
+C:\Documents and Settings\wildox.HQ\My Documents\Visual Studio 2010\Projects\PrintInvoice\PrintInvoice\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\wildox.HQ\My Documents\Visual Studio 2010\Projects\PrintInvoice\PrintInvoice\obj\x86\Release\PrintInvoice.exe
+C:\Users\User\Desktop\PrintInvoice\PrintInvoice\bin\Release\invclogo.bmp
+C:\Users\User\Desktop\PrintInvoice\PrintInvoice\bin\Release\zxing.dll
+C:\Users\User\Desktop\PrintInvoice\PrintInvoice\bin\Release\PrintInvoice.exe
+C:\Users\User\Desktop\PrintInvoice\PrintInvoice\bin\Release\zxing.pdb
+C:\Users\User\Desktop\PrintInvoice\PrintInvoice\bin\Release\zxing.xml
+C:\Users\User\Desktop\PrintInvoice\PrintInvoice\obj\x86\Release\PrintInvoice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PrintInvoice\PrintInvoice\obj\x86\Release\PrintInvoice.exe

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="Big5" ?>
+<data>
+    <row>
+     <!--發票年份-->
+     <col name = "year">105</col>
+     <!--發票月份-->
+     <col name = "months">07-08</col>
+     <!--發票號碼-->
+     <col name = "invoice">JF-99904792</col>
+     <!--列印時間(已經不參考)-->
+     <col name = "printtime">2016-08-23 22:39:46</col>
+     <!--LOGO圖檔-->
+     <col name = "logo">invclogo.bmp</col>
+     <!--電子發票證明聯後面的 補印 或 保持空白-->
+     <col name = "fixtext">補印</col>
+     <!--附加文字 或保持空白-->
+     <col name = "atttext">格式25</col>
+     <!--隨機碼-->
+     <col name = "randcode">9124</col>
+     <!--銷售人統一編號-->
+     <col name = "sellerid">84900960</col>
+     <!--購買人統一編號-->
+     <col name = "byerid">88888888</col>
+     <!--發票總額-->
+     <col name = "total">96</col>
+     <!--條碼內容，不含*字-->
+     <col name = "barcode">10508JF999047929124</col>
+     <!--左邊QR碼內容，最多 120 byte-->
+     <col name = "qrcode1">JF999047921050823912400000000000000600000000084900960zo3a3kV+8MTcPOqF9gSA4g==:**********:4:4:1:</col>
+     <!--右邊QR碼內容，最多 120 byte-->
+     <col name = "qrcode2">**博多明太子炙燒鮭魚飯糰:1:25:哇沙米鮭魚飯糰:1:25:小小兵點數:1:0</col>
+     <!--備註1-->
+     <col name = "note1">司163570 站0078 貨A1234567890</col>
+     <!--備註2-->
+     <col name = "note2">交易明細</col>
+     <!--備註3-->
+     <col name = "note3">運什費        96           TX</col>
+     <!--備註4-->
+     <col name = "note4">銷售額       稅額        總計</col>
+     <!--備註5-->
+     <col name = "note5">    91            5            96</col>
+    </row>
+</data>

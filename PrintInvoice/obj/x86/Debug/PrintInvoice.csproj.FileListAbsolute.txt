@@ -1,0 +1,19 @@
+c:\documents and settings\wildox.hq\my documents\visual studio 2010\Projects\PrintInvoice\PrintInvoice\bin\Debug\invclogo.bmp
+c:\documents and settings\wildox.hq\my documents\visual studio 2010\Projects\PrintInvoice\PrintInvoice\bin\Debug\zxing.dll
+c:\documents and settings\wildox.hq\my documents\visual studio 2010\Projects\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.exe
+c:\documents and settings\wildox.hq\my documents\visual studio 2010\Projects\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.pdb
+c:\documents and settings\wildox.hq\my documents\visual studio 2010\Projects\PrintInvoice\PrintInvoice\bin\Debug\zxing.pdb
+c:\documents and settings\wildox.hq\my documents\visual studio 2010\Projects\PrintInvoice\PrintInvoice\bin\Debug\zxing.xml
+c:\documents and settings\wildox.hq\my documents\visual studio 2010\Projects\PrintInvoice\PrintInvoice\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\wildox.hq\my documents\visual studio 2010\Projects\PrintInvoice\PrintInvoice\obj\x86\Debug\PrintInvoice.exe
+c:\documents and settings\wildox.hq\my documents\visual studio 2010\Projects\PrintInvoice\PrintInvoice\obj\x86\Debug\PrintInvoice.pdb
+C:\Users\User\Desktop\PrintInvoice\PrintInvoice\bin\Debug\invclogo.bmp
+C:\Users\User\Desktop\PrintInvoice\PrintInvoice\bin\Debug\zxing.dll
+C:\Users\User\Desktop\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.exe
+C:\Users\User\Desktop\PrintInvoice\PrintInvoice\bin\Debug\PrintInvoice.pdb
+C:\Users\User\Desktop\PrintInvoice\PrintInvoice\bin\Debug\zxing.pdb
+C:\Users\User\Desktop\PrintInvoice\PrintInvoice\bin\Debug\zxing.xml
+C:\Users\User\Desktop\PrintInvoice\PrintInvoice\obj\x86\Debug\PrintInvoice.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PrintInvoice\PrintInvoice\obj\x86\Debug\PrintInvoice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PrintInvoice\PrintInvoice\obj\x86\Debug\PrintInvoice.exe
+C:\Users\User\Desktop\PrintInvoice\PrintInvoice\obj\x86\Debug\PrintInvoice.pdb

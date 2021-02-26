@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="BIG5" standalone="no"?>
+<data>
+<row>
+<col name="year">107</col>
+<col name="months">0914</col>
+<col name="invoice">ZV-47656742</col>
+<col name="printtime">2016-08-23 22:39:46</col>
+<col name="logo">invclogo.bmp</col>
+<col name="fixtext"> </col>
+<col name="atttext">格式25</col>
+<col name="randcode">1725</col>
+<col name="sellerid">45002502</col>
+<col name="byerid">00000000</col>
+<col name="total">110</col>
+<col name="barcode">1070914ZV476567421725</col>
+<col name="qrcode1">JQ09735677107091417250000006e0000006e0000000045002502yLN2qB9tg3IifUGnwIjnSw==:**********:4:4:1:</col>
+<col name="qrcode2">**雞翅:2:55</col>
+<col name="note1">歡迎來到資工系</col>
+<col name="note2">交易明細</col>
+<col name="note3">零售品        110           TX</col>
+<col name="note4">銷售額       稅額        總計</col>
+<col name="note5">    110          0          110</col>
+<col name="refbox">1</col>
+<col name="endrun"/>
+</row>
+</data>

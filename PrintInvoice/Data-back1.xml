@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="big5" ?>
+<data>
+    <row>
+     <!--年分-->
+     <col name = "year">105</col>
+     <!--月份，兩個月-->
+     <col name = "months">07-08</col>
+     <!--發票號碼-->
+     <col name = "invoice">F99904792</col>
+     <!--列印日期-->
+     <col name = "printtime">2016-08-23 22:39:46</col>
+     <!--發票上方圖示影像檔案-->
+     <col name = "logo">logo.bmp</col>
+     <!--補印文字"補印"或空白-->
+     <col name = "fixtext"></col>
+     <!--隨機碼4碼-->
+     <col name = "randcode">9124</col>
+     <!--賣方統編-->
+     <col name = "sellerid">84900960</col>
+     <!--買方統編-->
+     <col name = "byerid"></col>
+     <!--銷售總金額--->
+     <col name = "total">96</col>
+     <!--Code39條碼內容，不包含前後*號長度為19碼-->
+     <col name = "barcode"></col>
+     <!--左方QRcode內容，長度為95~120碼左右，主要內容，QRcode編碼為utf-8，故-->
+     <col name = "qrcode1">JF999047921050823912400000000000000600000000084900960zo3a3kV+8MTcPOqF9gSA4g==:**********:4:4:1:鮭魚親子飯糰:2:35:</col>
+     <!--右方QRcode內容，長度為100~118碼，文字延伸左方QRcode內容(內容不足後方請擺入空白到足夠長度)-->
+     <col name = "qrcode2">**博多明太子炙燒鮭魚飯糰:1:25:哇沙米鮭魚飯糰:1:25:小小兵點數:1:0                                   </col>
+     <!--備註1 (QRcode下方第一排)-->
+     <col name = "note1">司163570 站0078 貨A1234567890</col>
+     <!--備註2 (QRcode下方第二排)-->
+     <col name = "note2">交易明細</col>
+     <!--備註3 (QRcode下方第三排)-->
+     <col name = "note3">運什費        96           TX</col>
+     <!--備註4 (QRcode下方第四排)-->
+     <col name = "note4">銷售額       稅額        總計</col>
+     <!--備註5 (QRcode下方第五排)-->
+     <col name = "note5">91            5            96</col>
+    </row>
+</data>
